@@ -14,6 +14,16 @@ The goal of this project is to simulate a end-to-end data analytics workflow, de
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+# Business Recommendations
+
+● Boost Subscriptions – Promote exclusive benefits for subscribers.
+● Customer Loyalty Programs – Reward repeat buyers to move them into the “Loyal”
+segment.
+● Review Discount Policy – Balance sales boosts with margin control.
+● Product Positioning – Highlight top-rated and best-selling products in campaigns.
+● Targeted Marketing – Focus efforts on high-revenue age groups and express-shipping
+users. 
+
 # Dashboard
 
 ![Dashboard Preview](https://github.com/Somya-2611/Customer-Behaviour-Analysis/blob/main/Snapshot%20of%20Dashboard..png)
