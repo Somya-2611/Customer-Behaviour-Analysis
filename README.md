@@ -13,3 +13,8 @@ The goal of this project is to simulate a end-to-end data analytics workflow, de
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
+
+# Dashboard
+
+https://github.com/Somya-2611/Customer-Behaviour-Analysis/blob/main/Snapshot%20of%20Dashboard..png 
+
