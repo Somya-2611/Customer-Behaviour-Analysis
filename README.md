@@ -16,5 +16,4 @@ The goal of this project is to simulate a end-to-end data analytics workflow, de
 
 # Dashboard
 
-!(https://github.com/Somya-2611/Customer-Behaviour-Analysis/blob/main/Snapshot%20of%20Dashboard..png)
-
+![Dashboard Preview](https://github.com/Somya-2611/Customer-Behaviour-Analysis/blob/main/Snapshot%20of%20Dashboard..png)
